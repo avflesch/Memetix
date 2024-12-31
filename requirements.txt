@@ -1,5 +1,5 @@
 # Core AI & NLP
-torch>=1.10.0
+torch>=1.11.0
 transformers>=4.30.0
 sentence-transformers>=2.2.2
 numpy>=1.22.0
@@ -11,7 +11,7 @@ scikit-learn>=1.0.2
 
 # Web & Async
 aiohttp>=3.8.1
-asyncio>=3.4.3
+asyncio>=3.5.1
 httpx>=0.23.0
 
 # Networking & API
@@ -33,6 +33,13 @@ isort>=5.10.1
 # Advanced NLP
 spacy>=3.2.0
 nltk>=3.7
+
+# Solana Integration
+solana>=0.30.0
+anchorpy>=0.18.0
+solders>=0.18.0
+solana-py>=0.30.0
+borsh-construct>=0.1.0
 
 # Optional: Visualization
 matplotlib>=3.5.1
