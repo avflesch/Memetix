@@ -1,5 +1,8 @@
 # 🧠 MemeSphere: Sentient Memetic Intelligence Platform
 
+## 🌟 Solana Hackathon Submission
+MemeSphere proudly represents our submission to the Solana Hyperdrive Hackathon 2024.
+
 ## 🌐 Project Vision
 
 **MemeSphere** represents the cutting-edge convergence of artificial intelligence, cultural linguistics, and memetic intelligence. Our platform goes beyond traditional natural language processing to decode the complex, evolving landscape of digital communication.
