@@ -9,8 +9,7 @@ with open("requirements.txt") as f:
 setup(
     name="memesphere",
     version="0.1.0",
-    author="MemeSphere Team",
-    author_email="dev@memesphere.ai",
+    author="yosefkat",
     description="A sentient memetic intelligence platform",
     long_description=long_description,
     long_description_content_type="text/markdown",
