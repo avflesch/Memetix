@@ -57,6 +57,3 @@ We're seeking:
 - Linguists
 - Cultural Anthropologists
 - Blockchain Experts
-
-**Contact**: research@memesphere.ai
-```
