@@ -1,7 +1,7 @@
 # 🧠 MemeSphere: Sentient Memetic Intelligence Platform
 
 ## 🌟 Solana Hackathon Submission
-MemeSphere proudly represents our submission to the Solana Hyperdrive Hackathon 2024.
+MemeSphere proudly represents our submission to the December Solana AI Hackathon.
 
 ## 🌐 Project Vision
 
