@@ -58,5 +58,4 @@ insights = analysis.generate_cultural_intelligence_report()
 We're seeking:
 - AI Researchers
 - Linguists
-- Cultural Anthropologists
 - Blockchain Experts
