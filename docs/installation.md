@@ -40,8 +40,8 @@ source venv/bin/activate  # Linux/Mac
 
 2. Set environment variables:
 ```bash
-export SOLANA_NETWORK=devnet
-export SOLANA_RPC_URL=https://api.devnet.solana.com
+export SOLANA_NETWORK=grpc
+export SOLANA_RPC_URL=https://api.grpc.solana.com
 ```
 
 ## Verification
