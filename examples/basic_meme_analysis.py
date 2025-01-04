@@ -12,7 +12,7 @@ async def analyze_single_meme():
     
     # Sample meme data
     meme_data = {
-        "url": "https://example.com/meme.jpg",
+        "url": "https://example.com/meme.png",
         "text": "When the code works on first try",
         "platform": "reddit",
         "timestamp": "2024-01-15T12:00:00Z"
