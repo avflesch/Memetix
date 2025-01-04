@@ -9,7 +9,7 @@ from pathlib import Path
 async def deploy_agent(
     config_path: str,
     agent_name: str,
-    network: str = "devnet"
+    network: str = "grpc"
 ):
     # Load configuration
     with open(config_path) as f:
@@ -50,7 +50,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--config", required=True)
     parser.add_argument("--agent_name", required=True)
-    parser.add_argument("--network", default="devnet")
+    parser.add_argument("--network", default="grpc")
     
     args = parser.parse_args()
     
