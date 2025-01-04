@@ -48,4 +48,4 @@ VOLUME ["/app/data"]
 CMD ["pytest", "-v", "--cov=memesphere"]
 
 # Alternative command to run the application
-# CMD ["python", "-m", "memesphere.main"]
+# CMD ["python", "-m", "memesphere.main"] 
