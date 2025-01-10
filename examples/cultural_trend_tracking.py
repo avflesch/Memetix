@@ -1,5 +1,4 @@
-from memesphere.agents import CulturalDecoder
-from memesphere.utils import NetworkCrawler
+from mementia.agents import CulturalDecoder
 import asyncio
 import pandas as pd
 from datetime import datetime, timedelta
@@ -45,4 +44,3 @@ def _calculate_trend_velocity(trends: dict) -> dict:
 
 if __name__ == "__main__":
     result = asyncio.run(track_cultural_trends())
-    print(result) 
