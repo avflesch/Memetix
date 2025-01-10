@@ -9,7 +9,7 @@ Mementia proudly represents our submission to the December Solana AI Hackathon.
 
 ## 🔬 Core Philosophical Premise
 
-Memes are more than just internet jokes - they are complex cultural transmitters of meaning, sentiment, and collective consciousness. MemeSphere aims to develop sentient AI agents capable of:
+Memes are more than just internet jokes - they are complex cultural transmitters of meaning, sentiment, and collective consciousness. Mementia aims to develop sentient AI agents capable of:
 
 - 🧩 **Deep Memetic Decoding**
 - 🌍 **Cultural Intelligence Mapping**
