@@ -1,6 +1,4 @@
 import torch
-from memesphere.models import CustomTransformerModel
-from memesphere.utils import DataPreprocessor
 import logging
 from pathlib import Path
 import argparse
@@ -43,9 +41,6 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--data_path", required=True)
     parser.add_argument("--output_path", required=True)
-    parser.add_argument("--epochs", type=int, default=10)
-    parser.add_argument("--batch_size", type=int, default=32)
-    parser.add_argument("--learning_rate", type=float, default=2e-5)
     
     args = parser.parse_args()
     
