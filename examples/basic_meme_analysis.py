@@ -1,6 +1,6 @@
-from memesphere.agents import MemeAnalyzer
-from memesphere.core import SentientAgent
-from memesphere.integrations import SolanaWallet
+from mementia.agents import MemeAnalyzer
+from mementia.core import SentientAgent
+from mementia.integrations import SolanaWallet
 import asyncio
 import logging
 
