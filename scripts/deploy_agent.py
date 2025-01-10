@@ -1,5 +1,5 @@
-from memesphere.core import SentientAgent
-from memesphere.integrations import SolanaWallet
+from mementia.core import SentientAgent
+from mementia.integrations import SolanaWallet
 import asyncio
 import logging
 import argparse
