@@ -1,11 +1,11 @@
-# 🧠 MemeSphere: Sentient Memetic Intelligence Platform
+# 🧠 Mementia: Sentient Memetic Intelligence Platform
 
 ## 🌟 Solana Hackathon Submission
-MemeSphere proudly represents our submission to the December Solana AI Hackathon.
+Mementia proudly represents our submission to the December Solana AI Hackathon.
 
 ## 🌐 Project Vision
 
-**MemeSphere** represents the cutting-edge convergence of artificial intelligence, cultural linguistics, and memetic intelligence. Our platform goes beyond traditional natural language processing to decode the complex, evolving landscape of digital communication.
+**Mementia** represents the cutting-edge convergence of artificial intelligence, cultural linguistics, and memetic intelligence. Our platform goes beyond traditional natural language processing to decode the complex, evolving landscape of digital communication.
 
 ## 🔬 Core Philosophical Premise
 
@@ -26,8 +26,8 @@ Memes are more than just internet jokes - they are complex cultural transmitters
 ## 🛠 Example Usage
 
 ```python
-from memesphere.agents import MemeAnalyzer
-from memesphere.core import SentientAgent
+from mementia.agents import MemeAnalyzer
+from mementia.core import SentientAgent
 
 # Initialize a sentient meme analysis agent
 agent = SentientAgent(
