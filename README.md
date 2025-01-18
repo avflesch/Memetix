@@ -66,7 +66,7 @@ Our work intersects with multiple cutting-edge fields:
 - **Blockchain Integration**: Ensures transparent and verifiable cultural analysis
 
 ## 🤝 Collaboration Invitation
-We're building a diverse team of experts to push the boundaries of cultural AI:
+We're building a diverse team of Open-Source engineers to push the boundaries of cultural AI:
 - **AI Researchers**: Advanced machine learning and neural network specialists
 - **Linguists**: Experts in computational linguistics and language evolution
 - **Blockchain Experts**: Distributed systems and cryptographic specialists
