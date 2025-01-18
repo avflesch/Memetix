@@ -22,4 +22,3 @@ def env_setup(monkeypatch):
     Setup environment variables for testing
     """
     monkeypatch.setenv("EMBEDDING_MODEL", "test-embedding-model")
-    monkeypatch.setenv("MAX_BATCH_SIZE", "32")
