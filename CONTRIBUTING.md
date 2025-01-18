@@ -1,4 +1,4 @@
-# Contributing to MemeSphere
+# Contributing to Mementia
 
 We love your input! We want to make contributing to MemeSphere as easy and transparent as possible, whether it's:
 
