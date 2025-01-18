@@ -7,13 +7,13 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="memesphere",
+    name="mementia",
     version="0.1.0",
     author="yosefkat",
     description="A sentient memetic intelligence platform",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/memesphere/memesphere",
+    url="https://github.com/memesphere/mementia",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
@@ -35,6 +35,6 @@ setup(
     },
     include_package_data=True,
     package_data={
-        "memesphere": ["data/*", "config/*"],
+        "mementia": ["data/*", "config/*"],
     },
 ) 
