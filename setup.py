@@ -7,13 +7,13 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="mementia",
+    name="memetix",
     version="0.1.0",
     author="yosefkat",
     description="A sentient memetic intelligence platform",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/memesphere/mementia",
+    url="https://github.com/yosefkat/memetix",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
@@ -29,8 +29,8 @@ setup(
     install_requires=requirements,
     entry_points={
         "console_scripts": [
-            "memesphere-train=scripts.train_model:main",
-            "memesphere-deploy=scripts.deploy_agent:main",
+            "memetix-train=scripts.train_model:main",
+            "memetix-deploy=scripts.deploy_agent:main",
         ],
     },
     include_package_data=True,
