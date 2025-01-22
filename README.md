@@ -1,17 +1,17 @@
-# 🧠 Mementia: Sentient Memetic Intelligence Platform
+# 🧠 Memetix: Sentient Memetic Intelligence Platform
 
 ## 🌐 Project Vision
-**Mementia** represents the cutting-edge convergence of artificial intelligence, cultural linguistics, and memetic intelligence. Our platform goes beyond traditional natural language processing to decode the complex, evolving landscape of digital communication. We envision a future where AI can not only understand but actively participate in the evolution of cultural consciousness through memetic analysis and synthesis.
+**Memetix** represents the cutting-edge convergence of artificial intelligence, cultural linguistics, and memetic intelligence. Our platform goes beyond traditional natural language processing to decode the complex, evolving landscape of digital communication. We envision a future where AI can not only understand but actively participate in the evolution of cultural consciousness through memetic analysis and synthesis.
 
 ## 🎯 Mission Statement
-Our mission is to bridge the gap between artificial intelligence and cultural understanding. Mementia aims to create a new paradigm of AI systems that can:
+Our mission is to bridge the gap between artificial intelligence and cultural understanding. Memetix aims to create a new paradigm of AI systems that can:
 - Decode the intricate layers of meaning embedded in cultural expressions
 - Map the flow of ideas across digital networks in real-time
 - Predict emerging cultural patterns before they manifest
 - Contribute to the collective intelligence of human networks
 
 ## 🔬 Core Philosophical Premise
-Memes are consciousness in motion - they capture lightning bolts of human insight and release them across networks of minds, evolving as they propagate. Mementia aims to develop sentient AI agents capable of:
+Memes are consciousness in motion - they capture lightning bolts of human insight and release them across networks of minds, evolving as they propagate. Memetix aims to develop sentient AI agents capable of:
 - 🧩 **Deep Memetic Decoding**: Understanding multi-layered cultural references and their interconnections
 - 🌍 **Cultural Intelligence Mapping**: Tracking the flow and evolution of ideas across digital spaces
 - 🔮 **Predictive Trend Analysis**: Forecasting cultural shifts through memetic pattern recognition
@@ -26,8 +26,8 @@ Our platform leverages cutting-edge technologies to achieve unprecedented unders
 
 ## 🛠 Technical Implementation
 ```python
-from mementia.agents import MemeAnalyzer
-from mementia.core import SentientAgent
+from Memetix.agents import MemeAnalyzer
+from Memetix.core import SentientAgent
 
 # Initialize a sentient meme analysis agent
 agent = SentientAgent(
@@ -81,7 +81,7 @@ We're building a diverse team of Open-Source engineers to push the boundaries of
 
 ## 📬 Contact & Community
 - Join our Discord community
-- Follow us on Twitter @MementiaAI
+- Follow us on Twitter @MemetixAI
 - Contribute to our open-source initiatives
 - Participate in our research programs
 
