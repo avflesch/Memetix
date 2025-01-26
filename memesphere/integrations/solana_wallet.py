@@ -13,7 +13,7 @@ class SolanaWallet:
     def __init__(
         self, 
         keypair: Optional[Keypair] = None,
-        network: str = "devnet"
+        network: str = "helius"
     ):
         self.keypair = keypair or Keypair()
         self.network = network
@@ -26,7 +26,7 @@ class SolanaWallet:
         logging.info(f"Initializing Solana Wallet on {network}")
     
     @classmethod
-    def create(cls, network: str = "devnet") -> 'SolanaWallet':
+    def create(cls, network: str = "helius") -> 'SolanaWallet':
         """
         Create new wallet with fresh keypair
         """
@@ -36,7 +36,7 @@ class SolanaWallet:
     def from_keypair(
         cls, 
         keypair_path: str,
-        network: str = "devnet"
+        network: str = "helius"
     ) -> 'SolanaWallet':
         """
         Load wallet from keypair file
