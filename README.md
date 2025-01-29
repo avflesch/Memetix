@@ -86,4 +86,4 @@ We're building a diverse team of Open-Source engineers to push the boundaries of
 - Participate in our research programs
 
 ## 📄 License
-MIT License - See LICENSE.md for details
+MIT License - See LICENSE.md
